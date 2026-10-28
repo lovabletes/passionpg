@@ -1,0 +1,51 @@
+{
+  "folder": "passion pg",
+  "cloudName": "dgg6e3flf",
+  "images": {
+    "Room1_1": "https://res.cloudinary.com/dgg6e3flf/image/upload/f_auto,q_auto/v1791994110/passion%20pg/Room1_1.png",
+    "Room1_2": "https://res.cloudinary.com/dgg6e3flf/image/upload/f_auto,q_auto/v1791994116/passion%20pg/Room1_2.png",
+    "Room1_3": "https://res.cloudinary.com/dgg6e3flf/image/upload/f_auto,q_auto/v1791994132/passion%20pg/Room1_3.png",
+    "Room1_4": "https://res.cloudinary.com/dgg6e3flf/image/upload/f_auto,q_auto/v1791994143/passion%20pg/Room1_4.png",
+    "Room2_1": "https://res.cloudinary.com/dgg6e3flf/image/upload/f_auto,q_auto/v1791994146/passion%20pg/Room2_1.png",
+    "Room2_2": "https://res.cloudinary.com/dgg6e3flf/image/upload/f_auto,q_auto/v1791994148/passion%20pg/Room2_2.png",
+    "Room2_3": "https://res.cloudinary.com/dgg6e3flf/image/upload/f_auto,q_auto/v1791994151/passion%20pg/Room2_3.png",
+    "Room2_4": "https://res.cloudinary.com/dgg6e3flf/image/upload/f_auto,q_auto/v1791994153/passion%20pg/Room2_4.png",
+    "Room3_1": "https://res.cloudinary.com/dgg6e3flf/image/upload/f_auto,q_auto/v1791994157/passion%20pg/Room3_1.png",
+    "Room3_3": "https://res.cloudinary.com/dgg6e3flf/image/upload/f_auto,q_auto/v1791994162/passion%20pg/Room3_3.png",
+    "Room4_1": "https://res.cloudinary.com/dgg6e3flf/image/upload/f_auto,q_auto/v1791994164/passion%20pg/Room4_1.png",
+    "Room4_2": "https://res.cloudinary.com/dgg6e3flf/image/upload/f_auto,q_auto/v1791994167/passion%20pg/Room4_2.png",
+    "passion_pg_logo": "https://res.cloudinary.com/dgg6e3flf/image/upload/f_auto,q_auto/v1791994172/passion%20pg/PassionPg.png"
+  },
+  "residencyImages": [
+    {
+      "src": "https://res.cloudinary.com/dgg6e3flf/image/upload/f_auto,q_auto/v1793206939/passion%20pg/residency/bright-canteen-with-red-stools.png",
+      "label": "Canteen & Dining Area",
+      "category": "Living & Dining"
+    },
+    {
+      "src": "https://res.cloudinary.com/dgg6e3flf/image/upload/f_auto,q_auto/v1793206917/passion%20pg/residency/daylit-dormitory-with-patterned-bed.png",
+      "label": "AC Room with Wardrobes",
+      "category": "Bedrooms"
+    },
+    {
+      "src": "https://res.cloudinary.com/dgg6e3flf/image/upload/f_auto,q_auto/v1793206897/passion%20pg/residency/tidy-dorm-room-corner-with-lockers.png",
+      "label": "Room with Study Desk & Lockers",
+      "category": "Bedrooms"
+    },
+    {
+      "src": "https://res.cloudinary.com/dgg6e3flf/image/upload/f_auto,q_auto/v1793206889/passion%20pg/residency/worn-dorm-room-with-patterned-beds.png",
+      "label": "Shared Room & Study Area",
+      "category": "Bedrooms"
+    },
+    {
+      "src": "https://res.cloudinary.com/dgg6e3flf/image/upload/f_auto,q_auto/v1793206947/passion%20pg/residency/industrial-pavilion-with-red-chrome-stools.png",
+      "label": "Dining Seating Area",
+      "category": "Living & Dining"
+    },
+    {
+      "src": "https://res.cloudinary.com/dgg6e3flf/image/upload/f_auto,q_auto/v1793208150/passion%20pg/residency/sunlit-symmetrical-hostel-room.png",
+      "label": "Sunlit Symmetrical Hostel Room",
+      "category": "Bedrooms"
+    }
+  ]
+}
