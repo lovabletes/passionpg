@@ -5,12 +5,12 @@ import { contactNumbers } from "@/data/contacts";
 
 
 const footerStyles: Record<string, CSSProperties> = {
-  footer: { background: "#f4f8f5", borderTop: "1px solid #dce8df", padding: "44px max(24px, 5vw) 32px", color: "#53665e" },
-  inner: { maxWidth: 1200, margin: "0 auto" },
+  footer: { background: "#f4f8f5", borderTop: "1px solid #dce8df", padding: "44px 32px 32px", color: "#53665e" },
+  inner: { width: "100%", margin: "0 auto" },
   grid: { display: "flex", flexWrap: "wrap", gap: "32px 48px", alignItems: "flex-start" },
   brandColumn: { flex: "1 1 260px" },
-  brand: { display: "inline-flex", alignItems: "center", gap: 12, color: "#059669", fontSize: 25, fontWeight: 800, textDecoration: "none" },
-  logo: { width: 52, height: 52, objectFit: "contain" },
+  brand: { display: "inline-flex", alignItems: "center", gap: 12, color: "#059669", fontSize: "1.6rem", fontWeight: 800, letterSpacing: "-0.02em", textDecoration: "none" },
+  logo: { width: "auto", height: 56, objectFit: "contain" },
   description: { maxWidth: 300, margin: "14px 0", fontSize: 14, lineHeight: 1.8 },
   location: { fontSize: 12, color: "#698276" },
   explore: { display: "flex", flexDirection: "column", gap: 14, flex: "0 1 140px", paddingTop: 8 },
@@ -30,7 +30,7 @@ export default function SiteFooter() {
         <div style={footerStyles.grid}>
           <div style={footerStyles.brandColumn}>
             <Link href="/" style={footerStyles.brand}>
-              <Image src="/PassionPg.png" alt="" width={52} height={52} style={footerStyles.logo} />
+              <Image src="https://res.cloudinary.com/dgg6e3flf/image/upload/f_auto,q_auto/v1791994172/passion%20pg/PassionPg.png" alt="" width={72} height={56} unoptimized style={footerStyles.logo} />
               <span>PassionPG</span>
             </Link>
             <p style={footerStyles.description}>A place to study, settle in, and feel at home. Find your PG in Greater Noida.</p>
